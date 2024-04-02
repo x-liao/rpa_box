@@ -1,0 +1,13 @@
+2024-03-28 15:04:33 - root - INFO: 正在按明细帐生成区域合同金额饼图
+2024-03-28 15:04:36 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-28 15:09:37 - selenium.webdriver.common.selenium_manager - WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): operation timed out
+2024-03-28 15:09:37 - selenium.webdriver.common.selenium_manager - WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): operation timed out
+2024-03-28 15:09:48 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-28_15_04_36.png
+2024-03-28 15:09:48 - root - INFO: 运行完成
+2024-03-28 16:17:08 - root - INFO: 正在生成柱状图
+2024-03-28 16:17:27 - root - INFO: 正在按明细帐生成区域合同金额饼图
+2024-03-28 16:39:14 - root - INFO: 正在按明细帐生成区域合同金额饼图
+2024-03-28 16:39:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-28 16:39:24 - root - INFO: 正在按明细帐生成区域合同金额饼图
+2024-03-28 16:41:35 - root - INFO: 正在按明细帐生成区域合同金额饼图
+2024-03-28 16:52:52 - pyecharts.render.snapshot - INFO: Generating file ...

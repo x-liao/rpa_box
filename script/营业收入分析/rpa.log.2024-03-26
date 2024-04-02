@@ -1,0 +1,513 @@
+2024-03-26 00:00:09 - root - INFO: 运行完成
+2024-03-26 00:00:32 - root - INFO: 运行完成
+2024-03-26 00:01:55 - root - INFO: 运行完成
+2024-03-26 00:02:18 - root - INFO: 运行完成
+2024-03-26 00:02:46 - root - INFO: 运行完成
+2024-03-26 00:02:56 - root - INFO: 运行完成
+2024-03-26 00:05:21 - root - INFO: 运行完成
+2024-03-26 00:13:12 - root - INFO: 运行完成
+2024-03-26 00:16:23 - root - INFO: 运行完成
+2024-03-26 00:20:48 - root - INFO: 正在生成柱状图
+2024-03-26 00:20:49 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:20:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_20_48.png
+2024-03-26 00:20:58 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:21:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:21:18 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_20_48.png
+2024-03-26 00:21:18 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:21:20 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:21:27 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_20_48.png
+2024-03-26 00:21:30 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:21:30 - root - INFO: 运行完成
+2024-03-26 00:23:04 - root - INFO: 正在生成柱状图
+2024-03-26 00:23:05 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:23:24 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_23_04.png
+2024-03-26 00:23:24 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:23:26 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:23:53 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_23_04.png
+2024-03-26 00:23:53 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:23:55 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:24:01 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_23_04.png
+2024-03-26 00:24:04 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:24:04 - root - INFO: 运行完成
+2024-03-26 00:24:09 - root - INFO: 正在生成柱状图
+2024-03-26 00:24:10 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:24:14 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_24_09.png
+2024-03-26 00:24:14 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:24:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:24:30 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_24_09.png
+2024-03-26 00:24:30 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:24:32 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:24:35 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_24_09.png
+2024-03-26 00:24:38 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:24:38 - root - INFO: 运行完成
+2024-03-26 00:25:56 - root - INFO: 运行完成
+2024-03-26 00:26:19 - root - INFO: 运行完成
+2024-03-26 00:26:33 - root - INFO: 运行完成
+2024-03-26 00:28:45 - root - INFO: 运行完成
+2024-03-26 00:28:57 - root - INFO: 正在生成柱状图
+2024-03-26 00:28:57 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:29:09 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_28_57.png
+2024-03-26 00:29:09 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:29:11 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:29:15 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_28_57.png
+2024-03-26 00:29:15 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:29:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:29:21 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_28_57.png
+2024-03-26 00:29:24 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:29:24 - root - INFO: 运行完成
+2024-03-26 00:36:45 - root - INFO: 正在生成柱状图
+2024-03-26 00:36:46 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:36:50 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_36_45.png
+2024-03-26 00:36:50 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:36:51 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:36:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_36_45.png
+2024-03-26 00:36:58 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:37:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:37:04 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_36_45.png
+2024-03-26 00:41:04 - root - INFO: 正在生成柱状图
+2024-03-26 00:41:05 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:41:13 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_41_04.png
+2024-03-26 00:41:13 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:41:15 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:41:19 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_41_04.png
+2024-03-26 00:41:19 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:41:21 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:41:25 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_41_04.png
+2024-03-26 00:41:27 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:41:27 - root - INFO: 运行完成
+2024-03-26 00:42:01 - root - INFO: 正在生成柱状图
+2024-03-26 00:42:01 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:42:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_00_42_01.png
+2024-03-26 00:42:05 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 00:42:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:42:10 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_00_42_01.png
+2024-03-26 00:42:10 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 00:42:12 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 00:42:17 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_00_42_01.png
+2024-03-26 00:42:20 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 00:42:20 - root - INFO: 运行完成
+2024-03-26 08:56:47 - root - INFO: 正在生成柱状图
+2024-03-26 08:56:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:00:37 - root - INFO: 正在生成柱状图
+2024-03-26 09:00:38 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:01:23 - root - INFO: 正在生成柱状图
+2024-03-26 09:01:24 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:02:09 - root - INFO: 正在生成柱状图
+2024-03-26 09:02:10 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:02:37 - root - INFO: 正在生成柱状图
+2024-03-26 09:02:38 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:02:38 - selenium.webdriver.common.selenium_manager - DEBUG: Selenium Manager binary found at: /usr/local/lib/python3.12/site-packages/selenium/webdriver/common/macos/selenium-manager
+2024-03-26 09:02:38 - selenium.webdriver.common.selenium_manager - DEBUG: Executing process: /usr/local/lib/python3.12/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --debug --language-binding python --output json
+2024-03-26 09:03:57 - root - INFO: 正在生成柱状图
+2024-03-26 09:03:57 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:03:57 - selenium.webdriver.common.selenium_manager - DEBUG: Selenium Manager binary found at: /usr/local/lib/python3.12/site-packages/selenium/webdriver/common/macos/selenium-manager
+2024-03-26 09:03:57 - selenium.webdriver.common.selenium_manager - DEBUG: Executing process: /usr/local/lib/python3.12/site-packages/selenium/webdriver/common/macos/selenium-manager --browser chrome --debug --language-binding python --output json
+2024-03-26 09:04:13 - root - INFO: 正在生成柱状图
+2024-03-26 09:04:14 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:04:14 - selenium.webdriver.common.selenium_manager - WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+2024-03-26 09:04:22 - root - INFO: 正在生成柱状图
+2024-03-26 09:04:23 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:04:23 - selenium.webdriver.common.selenium_manager - WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+2024-03-26 09:04:49 - root - INFO: 正在生成柱状图
+2024-03-26 09:04:50 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:04:50 - selenium.webdriver.common.selenium_manager - WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: dns error: failed to lookup address information: nodename nor servname provided, or not known
+2024-03-26 09:06:45 - root - INFO: 正在生成柱状图
+2024-03-26 09:06:46 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:07:15 - root - INFO: 正在生成柱状图
+2024-03-26 09:07:16 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:07:25 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_07_15.png
+2024-03-26 09:07:25 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:07:28 - root - INFO: 正在生成柱状图
+2024-03-26 09:07:29 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:07:34 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_07_28.png
+2024-03-26 09:07:34 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:07:37 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:07:48 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_07_28.png
+2024-03-26 09:07:48 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:07:51 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:07:55 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_07_28.png
+2024-03-26 09:07:59 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:07:59 - root - INFO: 运行完成
+2024-03-26 09:09:38 - root - INFO: 正在生成柱状图
+2024-03-26 09:09:39 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:09:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_09_38.png
+2024-03-26 09:09:46 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:09:49 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:09:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_09_38.png
+2024-03-26 09:09:52 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:09:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:09:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_09_38.png
+2024-03-26 09:10:01 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:10:01 - root - INFO: 运行完成
+2024-03-26 09:15:41 - root - INFO: 正在生成柱状图
+2024-03-26 09:15:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:15:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_15_41.png
+2024-03-26 09:15:46 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:15:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:15:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_15_41.png
+2024-03-26 09:15:52 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:15:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:15:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_15_41.png
+2024-03-26 09:16:00 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:16:00 - root - INFO: 运行完成
+2024-03-26 09:18:32 - root - INFO: 正在生成柱状图
+2024-03-26 09:18:33 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:18:42 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_18_32.png
+2024-03-26 09:18:42 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:18:44 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:19:11 - root - INFO: 正在生成柱状图
+2024-03-26 09:19:12 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:19:46 - root - INFO: 正在生成柱状图
+2024-03-26 09:19:46 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:19:51 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_19_46.png
+2024-03-26 09:19:51 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:19:52 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:19:56 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_19_46.png
+2024-03-26 09:19:56 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:19:58 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:20:02 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_19_46.png
+2024-03-26 09:20:05 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:20:05 - root - INFO: 运行完成
+2024-03-26 09:25:36 - root - INFO: 正在生成柱状图
+2024-03-26 09:25:37 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:25:40 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_25_36.png
+2024-03-26 09:25:40 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:25:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:25:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_25_36.png
+2024-03-26 09:25:46 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:25:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:25:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_25_36.png
+2024-03-26 09:25:55 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:25:55 - root - INFO: 运行完成
+2024-03-26 09:27:17 - root - INFO: 正在生成柱状图
+2024-03-26 09:27:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:21 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_27_17.png
+2024-03-26 09:27:21 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:27:23 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:27 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_27_17.png
+2024-03-26 09:27:27 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:27:29 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:33 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_27_17.png
+2024-03-26 09:27:36 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:27:36 - root - INFO: 运行完成
+2024-03-26 09:27:41 - root - INFO: 正在生成柱状图
+2024-03-26 09:27:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_27_41.png
+2024-03-26 09:27:46 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:27:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_27_41.png
+2024-03-26 09:27:52 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:27:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:27:57 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_27_41.png
+2024-03-26 09:28:00 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:28:00 - root - INFO: 运行完成
+2024-03-26 09:28:54 - root - INFO: 正在生成柱状图
+2024-03-26 09:28:55 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:28:59 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_28_54.png
+2024-03-26 09:28:59 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:29:01 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:29:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_28_54.png
+2024-03-26 09:29:05 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:29:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:29:11 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_28_54.png
+2024-03-26 09:29:14 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:29:14 - root - INFO: 运行完成
+2024-03-26 09:58:06 - root - INFO: 正在生成柱状图
+2024-03-26 09:58:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:58:11 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_58_06.png
+2024-03-26 09:58:11 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:58:13 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:58:16 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_58_06.png
+2024-03-26 09:58:16 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:58:19 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:58:23 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_58_06.png
+2024-03-26 09:58:26 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:58:26 - root - INFO: 运行完成
+2024-03-26 09:58:59 - root - INFO: 正在生成柱状图
+2024-03-26 09:59:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:59:04 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_58_59.png
+2024-03-26 09:59:04 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:59:06 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:59:09 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_58_59.png
+2024-03-26 09:59:09 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 09:59:11 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:59:16 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_58_59.png
+2024-03-26 09:59:19 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 09:59:19 - root - INFO: 运行完成
+2024-03-26 09:59:48 - root - INFO: 正在生成柱状图
+2024-03-26 09:59:49 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:59:53 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_09_59_48.png
+2024-03-26 09:59:53 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 09:59:55 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 09:59:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_09_59_48.png
+2024-03-26 09:59:58 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:00:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:00:14 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_09_59_48.png
+2024-03-26 10:00:17 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:00:17 - root - INFO: 运行完成
+2024-03-26 10:01:02 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:01:02 - root - INFO: 运行完成
+2024-03-26 10:06:01 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:06:01 - root - INFO: 运行完成
+2024-03-26 10:06:27 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:06:27 - root - INFO: 运行完成
+2024-03-26 10:07:47 - root - INFO: 正在生成柱状图
+2024-03-26 10:07:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:07:56 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_07_47.png
+2024-03-26 10:07:56 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:07:58 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:08:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_07_47.png
+2024-03-26 10:08:05 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:08:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:08:11 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_07_47.png
+2024-03-26 10:08:14 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:08:14 - root - INFO: 运行完成
+2024-03-26 10:12:03 - root - INFO: 正在生成柱状图
+2024-03-26 10:12:04 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:12:08 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_12_03.png
+2024-03-26 10:12:08 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:12:10 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:12:16 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_12_03.png
+2024-03-26 10:12:16 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:12:18 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:12:22 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_12_03.png
+2024-03-26 10:12:25 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:12:25 - root - INFO: 运行完成
+2024-03-26 10:13:41 - root - INFO: 正在生成柱状图
+2024-03-26 10:13:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:13:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_13_41.png
+2024-03-26 10:13:46 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:13:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:13:55 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_13_41.png
+2024-03-26 10:13:55 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:13:57 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:14:03 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_13_41.png
+2024-03-26 10:14:06 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:14:06 - root - INFO: 运行完成
+2024-03-26 10:16:53 - root - INFO: 正在生成柱状图
+2024-03-26 10:16:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:17:02 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_16_53.png
+2024-03-26 10:17:02 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:17:04 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:17:08 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_16_53.png
+2024-03-26 10:17:08 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:17:10 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:17:14 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_16_53.png
+2024-03-26 10:17:17 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:17:17 - root - INFO: 运行完成
+2024-03-26 10:21:06 - root - INFO: 正在生成柱状图
+2024-03-26 10:21:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:21:11 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_21_06.png
+2024-03-26 10:21:11 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:21:13 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:21:18 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_21_06.png
+2024-03-26 10:21:18 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:21:20 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:21:24 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_21_06.png
+2024-03-26 10:21:27 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:21:27 - root - INFO: 运行完成
+2024-03-26 10:22:40 - root - INFO: 正在生成柱状图
+2024-03-26 10:22:41 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:22:44 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_10_22_40.png
+2024-03-26 10:22:44 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 10:22:46 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:22:50 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_10_22_40.png
+2024-03-26 10:22:50 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 10:22:52 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 10:22:55 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_10_22_40.png
+2024-03-26 10:22:58 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 10:22:58 - root - INFO: 运行完成
+2024-03-26 11:22:40 - root - INFO: 正在生成柱状图
+2024-03-26 11:22:41 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:22:47 - selenium.webdriver.common.selenium_manager - WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): operation timed out
+2024-03-26 11:22:51 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_11_22_40.png
+2024-03-26 11:22:51 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 11:22:53 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:22:57 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_11_22_40.png
+2024-03-26 11:22:57 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 11:22:59 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:23:04 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_11_22_40.png
+2024-03-26 11:23:07 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 11:23:07 - root - INFO: 运行完成
+2024-03-26 11:31:59 - root - INFO: 正在生成柱状图
+2024-03-26 11:32:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:32:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_11_31_59.png
+2024-03-26 11:32:05 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 11:32:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:32:10 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_11_31_59.png
+2024-03-26 11:32:10 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 11:32:12 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 11:32:16 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_11_31_59.png
+2024-03-26 11:32:19 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 11:32:19 - root - INFO: 运行完成
+2024-03-26 16:03:52 - root - INFO: 正在生成柱状图
+2024-03-26 16:03:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 16:04:00 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_16_03_54.png
+2024-03-26 16:04:00 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 16:04:02 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 16:04:15 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_16_04_02.png
+2024-03-26 16:04:15 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 16:04:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 16:04:27 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_16_04_17.png
+2024-03-26 16:04:30 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 16:04:30 - root - INFO: 运行完成
+2024-03-26 20:39:00 - root - INFO: 正在生成柱状图
+2024-03-26 20:39:01 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:39:01 - selenium.webdriver.common.selenium_manager - WARNING: Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json): error trying to connect: tcp connect error: Connection refused (os error 61)
+2024-03-26 20:39:01 - selenium.webdriver.common.selenium_manager - WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): error trying to connect: tcp connect error: Connection refused (os error 61)
+2024-03-26 20:39:20 - root - INFO: 正在生成柱状图
+2024-03-26 20:39:21 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:39:32 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_20_39_21.png
+2024-03-26 20:39:32 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 20:39:34 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:39:40 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_20_39_34.png
+2024-03-26 20:39:40 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 20:39:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:39:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_20_39_42.png
+2024-03-26 20:39:49 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 20:39:49 - root - INFO: 运行完成
+2024-03-26 20:53:36 - root - INFO: 正在生成柱状图
+2024-03-26 20:53:37 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:53:43 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_20_53_37.png
+2024-03-26 20:53:43 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 20:53:45 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:53:49 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_20_53_45.png
+2024-03-26 20:53:49 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 20:53:51 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 20:54:01 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_20_53_51.png
+2024-03-26 20:54:04 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 20:54:04 - root - INFO: 运行完成
+2024-03-26 21:20:39 - root - INFO: 正在生成柱状图
+2024-03-26 21:20:40 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:22:07 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_20_40.png
+2024-03-26 21:22:07 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:22:09 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:22:30 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_22_09.png
+2024-03-26 21:22:30 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:22:32 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:22:50 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_22_32.png
+2024-03-26 21:22:53 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:22:53 - root - INFO: 运行完成
+2024-03-26 21:22:56 - root - INFO: 正在生成柱状图
+2024-03-26 21:22:57 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:23:02 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_22_57.png
+2024-03-26 21:23:02 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:23:04 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:23:09 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_23_04.png
+2024-03-26 21:23:09 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:23:11 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:24:26 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_23_11.png
+2024-03-26 21:24:29 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:24:29 - root - INFO: 运行完成
+2024-03-26 21:25:47 - root - INFO: 正在生成柱状图
+2024-03-26 21:25:47 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:25:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_25_47.png
+2024-03-26 21:25:52 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:25:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:26:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_25_54.png
+2024-03-26 21:26:05 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:26:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:26:12 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_26_07.png
+2024-03-26 21:26:15 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:26:15 - root - INFO: 运行完成
+2024-03-26 21:27:59 - root - INFO: 正在生成柱状图
+2024-03-26 21:27:59 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:29:55 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_27_59.png
+2024-03-26 21:29:55 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:29:57 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:30:01 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_29_57.png
+2024-03-26 21:30:01 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:30:03 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:30:52 - root - INFO: 正在生成柱状图
+2024-03-26 21:30:53 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:30:57 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_30_53.png
+2024-03-26 21:30:57 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:30:59 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:33:01 - root - INFO: 正在生成柱状图
+2024-03-26 21:33:02 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:33:05 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_33_02.png
+2024-03-26 21:33:05 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:33:07 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:33:11 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_33_07.png
+2024-03-26 21:33:11 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:33:13 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:33:18 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_33_13.png
+2024-03-26 21:33:21 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:33:21 - root - INFO: 运行完成
+2024-03-26 21:34:35 - root - INFO: 正在生成柱状图
+2024-03-26 21:34:36 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:34:40 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_34_36.png
+2024-03-26 21:34:40 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:34:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:34:46 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_34_42.png
+2024-03-26 21:34:46 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:34:48 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:35:27 - root - INFO: 正在生成柱状图
+2024-03-26 21:35:28 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:35:37 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_35_28.png
+2024-03-26 21:35:37 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:35:39 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:35:44 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_35_39.png
+2024-03-26 21:35:44 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:35:46 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:37:54 - root - INFO: 正在生成柱状图
+2024-03-26 21:37:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:37:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_37_54.png
+2024-03-26 21:37:58 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:38:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:38:03 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_38_00.png
+2024-03-26 21:38:03 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:38:05 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:38:09 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_38_05.png
+2024-03-26 21:38:12 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:38:12 - root - INFO: 运行完成
+2024-03-26 21:42:52 - root - INFO: 正在生成柱状图
+2024-03-26 21:42:53 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:42:58 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_42_53.png
+2024-03-26 21:42:58 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:43:00 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:43:04 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_43_00.png
+2024-03-26 21:43:04 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:43:06 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:43:42 - root - INFO: 正在生成柱状图
+2024-03-26 21:43:43 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:43:47 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_21_43_43.png
+2024-03-26 21:43:47 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 21:43:49 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:43:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_21_43_49.png
+2024-03-26 21:43:52 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 21:43:54 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 21:44:57 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_21_43_54.png
+2024-03-26 21:45:00 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 21:45:00 - root - INFO: 运行完成
+2024-03-26 22:02:16 - root - INFO: 正在生成柱状图
+2024-03-26 22:02:17 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:02:21 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_22_02_17.png
+2024-03-26 22:02:21 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 22:02:23 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:02:27 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_22_02_23.png
+2024-03-26 22:02:27 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 22:02:29 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:02:32 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_22_02_29.png
+2024-03-26 22:03:35 - root - INFO: 正在生成柱状图
+2024-03-26 22:03:36 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:03:40 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_22_03_36.png
+2024-03-26 22:03:40 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 22:03:42 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:03:45 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_22_03_42.png
+2024-03-26 22:03:45 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 22:03:47 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 22:03:52 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_22_03_47.png
+2024-03-26 22:03:55 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 22:03:55 - root - INFO: 运行完成
+2024-03-26 23:14:34 - root - INFO: 正在生成柱状图
+2024-03-26 23:14:35 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 23:14:42 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/snapshot_2024-03-26_23_14_35.png
+2024-03-26 23:14:42 - root - INFO: 正在按区域分析生成饼图
+2024-03-26 23:14:44 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 23:14:50 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie1_2024-03-26_23_14_44.png
+2024-03-26 23:14:50 - root - INFO: 正在按区外项目类别分析生成饼图
+2024-03-26 23:14:52 - pyecharts.render.snapshot - INFO: Generating file ...
+2024-03-26 23:14:57 - pyecharts.render.snapshot - INFO: File saved in /Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/images/area_pie3_2024-03-26_23_14_52.png
+2024-03-26 23:15:00 - root - INFO: 生成报告成功, 文件保存在/Users/xliao/SynologyDrive/博联/RPA/UIbot/2024年3月/营业收入分析.docx
+2024-03-26 23:15:00 - root - INFO: 运行完成

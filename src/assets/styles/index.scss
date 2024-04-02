@@ -1,0 +1,187 @@
+// 引入reset.css
+@import 'reset.css';
+
+// Define your color palette and fonts here
+$sidebar-bg: #F5F5F5;
+$sidebar-color: #F0F0F0;
+$active-color: #30D158;
+$card-bg: #F0F0F0;
+$card-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+$title-bar-height: 50px; // Adjust as needed for your title bar
+
+body, html {
+  background-color: #F0F0F0;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.flex-container {
+  display: flex;
+}
+
+#app {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  position: fixed; /* 将位置设置为固定 */
+  top: 0; /* 从顶部开始定位 */
+  left: 0; /* 从左侧开始定位 */
+  bottom: 0; /* 保持侧边栏与页面底部对齐 */
+  width: 180px;
+  background-color: #F5F5F5;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  z-index: 999; /* 确保侧边栏显示在其他内容之上 */
+  
+  .title {
+    font-size: 1.5em;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 18px;
+  }
+
+  .nav-link {
+    display: block;
+    margin: auto;
+    padding: 12px;
+    margin-bottom: 8px;
+    color: #333333;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+
+    &:hover {
+      background-color: #ebebeb;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+  }
+
+  .router-link-active {
+    background-color: #d8e2f5; /* 激活链接颜色 */
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+    &:hover {
+      background-color: #d8e2f5;
+      // box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+  }
+}
+
+
+
+
+
+.top-bar {
+  position: fixed;
+  display: flex;
+  justify-content: space-between; /* 使标题在左侧，按钮在右侧 */
+  align-items: center;
+  margin-left: 200px;
+  top: 0;
+  width: calc(100% - 200px); /* 调整宽度以适应屏幕 */
+  height: $title-bar-height;
+  background: $sidebar-bg;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  // padding: 0 50px; /* 在两侧添加一些内边距 */
+
+  .title {
+    display: flex;
+    padding-left: 20px;
+    font-size: 1.25em;
+    color: #000;
+    font-weight: bold;
+  }
+  .btn {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-right: 20px;
+    background-color: $active-color;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    transition: background-color 0.3s;
+  
+    font-size: 1em;
+    
+    &:hover {
+      background-color: darken($active-color, 10%);
+    }
+  }
+  
+}
+
+
+
+
+
+.content {
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  align-items:flex-start; /* Center content horizontally */
+  // justify-content: center; /* Center content vertically */
+  flex-grow: 1;
+  margin-top: 20px; /* Adjust for fixed top bar */
+  padding-left: 230px; /* Add some padding */
+
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* 使标题在左侧，按钮在右侧 */
+  align-items: center;
+  background: white;
+  box-shadow: $card-shadow;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  width: 500px;
+
+  .scriptname{
+    display: flex;
+    padding-left: 20px;
+    font-size: 1.25em;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .btn {
+    display: flex;
+    cursor: pointer;
+    padding: 10px;
+    background-color: $active-color;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    transition: background-color 0.3s;
+  
+    font-size: 1em;
+    
+    &:hover {
+      background-color: darken($active-color, 10%);
+    }
+  }
+}
+
+.main-content {
+  display: flex;
+  flex-grow: 1;
+  background: $card-bg;
+  padding: $title-bar-height 0 0 0; // Padding to account for title bar
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
