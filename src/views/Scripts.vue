@@ -20,7 +20,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineComponent } from 'vue';
 import { invoke } from '@tauri-apps/api/tauri';
 let topBarTitle = "脚本管理";
 
@@ -42,7 +41,7 @@ function addScript() {
   // 添加脚本的逻辑
 }
 
-function runScripts(file) {
+function runScripts(file: string) {
   // 运行脚本的逻辑
   invoke('run_python_script',{ file: file })
   .then((response) => console.log(response))
